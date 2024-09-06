@@ -1,0 +1,29 @@
+[
+  {
+    "logo": "/assets/fklogo.png",
+    "title": "Protect your family and build credit for teens",
+    "score": "721",
+    "scoreTitle": "FICO Score",
+    "scoreSubTitle": "Average First Credit Score<sup>1</sup>",
+    "color": "sky",
+    "items": [
+      "Family identity protection for up to 2 adults and 6 children",
+      "Credit building for up to 6 children ages 13 to 25",
+      "Just $149 per year or FREE with $3,000 FDIC-insured deposit"
+    ]
+  },
+  {
+    "logo": "/assets/csbiz.svg",
+    "title": "for Business",
+    "score": "0%",
+    "scoreTitle": "Interest Rate",
+    "scoreSubTitle": "Interest-Free Credit Builder Loan",
+    "color": "orange",
+    "items": [
+      "Establish and build credit for your company",
+      "Keep personal and company credit separate",
+      "Reports using Company EIN, not your personal SSN",
+      "Build $5,000 to $50,000 of commercial installment credit"
+    ]
+  }
+]

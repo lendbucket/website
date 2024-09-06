@@ -1,0 +1,275 @@
+{
+  "base": {
+    "monthly_requied": "Monthly Payment Required",
+    "monthly_optional": "No Monthly Payment Required",
+    "button": "Get Started",
+    "learnMore": "Learn More",
+    "noCredit": "No Credit?",
+    "noProblem": "No Problem",
+    "badCredit": "Bad Credit?",
+    "doIQuality": "Do I Qualify?"
+  },
+  "dashboard": {
+    "banner": {
+      "title": "Strong Credit Opens Doors",
+      "getStarted": "Get Started",
+      "improveCredit": "Improve your credit",
+      "averageFico": "Average FICO Score 8 Increase",
+      "description1": "Whether you’re looking for the fastest boost or the largest long-term credit improvement, CreditBolt provides <span style='color: #84cc16;'>powerful credit building</span> solutions",
+      "title1": "Great combinations for a <span style='color: #0ea5e9;'>complete</span> credit profile",
+      "title2": "Build <span style='color: #0ea5e9;'>revolving and installment</span> credit with these product combos"
+    },
+    "cscombo": "After you open your first account, look for “Explore our Products” in your account dashboard to add products and complete your credit building combo.",
+    "fico": {
+      "title": " <span style='color: #84cc16;'>CreditBolt</span> can positively impact factors that determine 90% of your FICO Score",
+      "description": "Engineered for bigger and better credit on your terms",
+      "subDescription": "Impact Factors: Payment history (35%), Amount of Credit (30%), Length of Credit History (15%), Credit Mix (10%)"
+    },
+    "special": {
+      "title": "Specialty Credit Products",
+      "button": "Get Started",
+      "learnMore": "Learn More"
+    },
+    "journey": {
+      "title": "Whether you’re just starting your credit journey or in the process of rebuilding your credit, we are here for you."
+    }
+  },
+  "contactUs": {
+    "title": "Want to know more?",
+    "location": "Chat with a real live person based in Austin, Texas.",
+    "chat": "Chat Monday - Friday 8am to 5pm CT. After hours please leave a message and we'll follow up with you the next business day​.",
+    "talk": "Prefer to talk?",
+    "callUs": "Call us at",
+    "phoneNumber": "833-850-0850",
+    "time": "Monday - Friday 8am to 5pm CT"
+  },
+  "trust": {
+    "title": "Credit building and security",
+    "subTitle": "only a real bank can provide.",
+    "description": "CreditBolt is part of a FDIC-insured bank, so you know your money and your personal information are safe and secure."
+  },
+  "product": {
+    "magnum": {
+      "name": "MAGNUM",
+      "description": "Largest long-term impact",
+      "pointIncrease": "86",
+      "pi_title": "Point Increase",
+      "pi_description": "Average FICO Score Increase",
+      "features": [
+        "Build a large amount of credit with a low monthly payment",
+        "Build $2,000 to $30,000 of installment credit history",
+        "Designed to build large credit – not savings",
+        "Starting at just $30 per month"
+      ],
+      "buttonText": "START MAGNUM",
+      "learnMoreText": "Learn More",
+      "price": 25,
+      "second_price": "",
+      "monthly_range": "$30/mo to $350/mo",
+      "price_des_head": "Average FICO® Score 8 increase of 86 points",
+      "price_des": "in 12 months for MAGNUM 10000 accountholders with a starting credit score of 550 or less, for all accounts opened in 2021 with 12 or more months of account activity that made 12 on-time payments."
+    },
+    "revolv": {
+      "name": "Revolv",
+      "description": "Fastest way to establish and improve credit",
+      "pointIncrease": "62",
+      "pi_title": "Point Increase",
+      "pi_description": "Average FICO Score Increase",
+      "features": [
+        "Build up to $3,000 of revolving credit",
+        "Revolv can rapidly improve your credit utilization – and score",
+        "$99 per year – NO monthly payment required"
+      ],
+      "buttonText": "START REVOLV",
+      "learnMoreText": "Learn More",
+      "price": 99,
+      "second_price": "",
+      "monthly_range": "",
+      "price_des_head": "Average FICO® Score 8 increase of 62 points",
+      "price_des": "for Revolv accountholders with a starting credit score under 550 who opened an account in Q1 2023 and made optional monthly savings payments between $15 and $45."
+    },
+    "instal": {
+      "name": "Instal",
+      "description": "Entry level account for new builders",
+      "pointIncrease": "45",
+      "pi_title": "Point Increase",
+      "pi_description": "Average FICO Score Increase",
+      "features": [
+        "Balances building credit with building savings",
+        "Build up to $1,100 of installment credit",
+        "Starting at just $28 per month"
+      ],
+      "buttonText": "START INSTAL",
+      "learnMoreText": "Learn More",
+      "price": 15,
+      "second_price": 25,
+      "monthly_range": "$28/mo to $199/mo",
+      "price_des_head": "Average FICO® Score 8 increase of 45 points",
+      "price_des": "for Instal/CS Max accountholders with a starting credit score under 550 who opened an account in Q1 2023 and made at least 3 on-time payments."
+    }
+  },
+  "terms": {
+    "title": "IMPORTANT INFORMATION ABOUT PROCEDURES FOR OPENING A NEW ACCOUNT:",
+    "description": "To help the government fight the funding of terrorism and money laundering activities, and the theft of your identity, Federal law requires all financial institutions to obtain, verify, and record information that identifies each person who opens an account. What this means for you: When you open an account, we will ask for your name, address, tax identification number (social security number or employer identification number), date of birth, and possibly other information that will allow us to identify you. We may also ask to see your driver's license or other identifying documents."
+  },
+  "proud": {
+    "title": "We don't hide the small print.",
+    "subTitle": "We're proud of it."
+  },
+  "copyright": "CreditBolt © %COPY_RIGHT%  All Rights Reserved..",
+  "company": "Austin Capital Bank SSB, Member FDIC.",
+  "revolv": {
+    "banner": {
+      "title": "CreditBolt Revolv",
+      "title1": "We increase your credit score FAST <span style='color: #0ea5e9;'>by lowering your credit utilization</span>",
+      "subTitle": "Build credit fast without a credit card",
+      "averageFico": "Average credit score increase of"
+    },
+    "fico": {
+      "title": " The fastest way to improve your credit score?",
+      "subTitle": "Lower your credit utilization.",
+      "description": "<span style='color: #0ea5e9;'>Revolv</span> lowers your credit utilization",
+      "subDescription": "<span style='color: #0ea5e9;'>Credit utilization</span> is your account balance divided by your credit limit. It is typically calculated as the percentage (%) of your credit limit you are using on the statement date of your account."
+    },
+    "price": {
+      "noPayment": "<span style='color: #0ea5e9;'>No</span> Monthly payments required"
+    },
+    "product": {
+      "title": "Plan <span style='color: #0ea5e9;'>Option</span>",
+      "revolv": {
+        "name": "Revolv",
+        "description": "Fastest way to improve credit",
+        "pointIncrease": "62",
+        "pi_title": "Point Increase",
+        "pi_description": "Average FICO Score Increase",
+        "features": [
+          "Quickly build $1,000 of revolving credit",
+          "Designed to lower utilization ASAP — the fastest way to boost",
+          "Just $99 a year",
+          "Set it and forget it — no monthly payments required. Add an optional monthly savings payment at any time to get the most out of Revolv"
+        ],
+        "buttonText": "START REVOLV"
+      },
+      "revolvSaving": {
+        "name": "Revolv",
+        "subname": "Savings",
+        "description": "Fastest way to improve credit & build savings",
+        "pointIncrease": "",
+        "pi_title": "Add a monthly payment to unlock all the benefits of Revolv",
+        "pi_description": "",
+        "features": [
+          "Adding an optional monthly payment boosts Revolv by adding payment history, optimizing utilization, and can unlock higher limits",
+          "100% of every monthly payment goes directly to building your savings",
+          "Make three on-time payments in a row and we’ll bump up your Revolv account’s limit — unlock all credit bumps and build up to $3,000 in revolving credit"
+        ],
+        "buttonText": "START REVOLV + SAVINGS"
+      }
+    },
+    "proud": "Average FICO® Score 8 increase of 62 points for Revolv accountholders with a starting credit score under 550 who opened an account in Q1 2023 and made optional monthly savings payments between $15 and $45."
+  },
+  "instal": {
+    "banner": {
+      "title": "Instal and CS Max",
+      "title1": "We increase your credit score FAST <span style='color: #0ea5e9;'>by lowering your credit utilization</span>",
+      "subTitle": "Build credit and savings",
+      "averageFico": "Average credit score increase of"
+    },
+    "fico": {
+      "title": " Instal targets the pain points of your credit profile so you see results ASAP",
+      "subTitle": "Engineered for bigger and better credit on your terms",
+      "description": "Payment history contributes 35% of your FICO® score. CreditBolt impacts 90% of your FICO® Score."
+    },
+    "price": {
+      "title": "Instal helps you build credit and savings",
+      "title1": "starting at just $28/mo",
+      "title2": "CS Max is designed to help build larger and longer credit over building savings",
+      "title3": "starting at just $49/mo",
+      "sub": "Instal and CS Max are Credit Builder Installment Loans designed to help strengthen your credit profile.",
+      "plan": "Plan <span style='color: #84cc16;'>Pricing</span>",
+      "planSub": "Choose the best CreditBolt Installment loan for you based on monthly payment, term length, and how much installment credit is reported. CreditBolt plans are secured and do not provide cash on signing."
+    },
+    "product": {
+      "title": "Plan <span style='color: #0ea5e9;'>Option</span>",
+      "revolv": {
+        "name": "Revolv",
+        "description": "Fastest way to improve credit",
+        "pointIncrease": "62",
+        "pi_title": "Point Increase",
+        "pi_description": "Average FICO Score Increase",
+        "features": [
+          "Quickly build $1,000 of revolving credit",
+          "Designed to lower utilization ASAP — the fastest way to boost",
+          "Just $99 a year",
+          "Set it and forget it — no monthly payments required. Add an optional monthly savings payment at any time to get the most out of Revolv"
+        ],
+        "buttonText": "START REVOLV"
+      },
+      "revolvSaving": {
+        "name": "Revolv",
+        "subname": "Savings",
+        "description": "Fastest way to improve credit & build savings",
+        "pointIncrease": "",
+        "pi_title": "Add a monthly payment to unlock all the benefits of Revolv",
+        "pi_description": "",
+        "features": [
+          "Adding an optional monthly payment boosts Revolv by adding payment history, optimizing utilization, and can unlock higher limits",
+          "100% of every monthly payment goes directly to building your savings",
+          "Make three on-time payments in a row and we’ll bump up your Revolv account’s limit — unlock all credit bumps and build up to $3,000 in revolving credit"
+        ],
+        "buttonText": "START REVOLV + SAVINGS"
+      }
+    },
+    "proud": "Average FICO® Score 8 increase of 62 points for Revolv accountholders with a starting credit score under 550 who opened an account in Q1 2023 and made optional monthly savings payments between $15 and $45.",
+    "tip": "Pro Tips",
+    "productDetail": {
+      "description": "Select a product below to see details including payments, interest rate, interest paid, savings progress, and a complete amortization table for each account.",
+      "subDescription": "For CS Max accounts, compare making additional payments to making only the minimum required monthly payment in the tables below."
+    }
+  },
+  "business": {
+    "banner": {
+      "title": "Business",
+      "subTitle": "CreditBolt means",
+      "averageFico": "Average credit score increase of"
+    },
+   "section2": {
+     "text": "Build business credit using your company's EIN",
+     "text1": "Build $5,000 to $50,000 of business credit"
+   },
+    "price": {
+      "noPayment": "<span style='color: #0ea5e9;'>No</span> Monthly payments required"
+    },
+    "product": {
+      "title": "Plan <span style='color: #0ea5e9;'>Option</span>",
+      "revolv": {
+        "name": "Revolv",
+        "description": "Fastest way to improve credit",
+        "pointIncrease": "62",
+        "pi_title": "Point Increase",
+        "pi_description": "Average FICO Score Increase",
+        "features": [
+          "Quickly build $1,000 of revolving credit",
+          "Designed to lower utilization ASAP — the fastest way to boost",
+          "Just $99 a year",
+          "Set it and forget it — no monthly payments required. Add an optional monthly savings payment at any time to get the most out of Revolv"
+        ],
+        "buttonText": "START REVOLV"
+      },
+      "revolvSaving": {
+        "name": "Revolv",
+        "subname": "Savings",
+        "description": "Fastest way to improve credit & build savings",
+        "pointIncrease": "",
+        "pi_title": "Add a monthly payment to unlock all the benefits of Revolv",
+        "pi_description": "",
+        "features": [
+          "Adding an optional monthly payment boosts Revolv by adding payment history, optimizing utilization, and can unlock higher limits",
+          "100% of every monthly payment goes directly to building your savings",
+          "Make three on-time payments in a row and we’ll bump up your Revolv account’s limit — unlock all credit bumps and build up to $3,000 in revolving credit"
+        ],
+        "buttonText": "START REVOLV + SAVINGS"
+      }
+    },
+    "proud": "Average FICO® Score 8 increase of 62 points for Revolv accountholders with a starting credit score under 550 who opened an account in Q1 2023 and made optional monthly savings payments between $15 and $45."
+  }
+}
